@@ -1,0 +1,45 @@
+C:\Users\Gregoire\AppData\Local\Temporary Projects\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe.config
+C:\Users\Gregoire\Desktop\Projets\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe.config
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe.config
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.pdb
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\MongoDB.Bson.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\MongoDB.Driver.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\MongoDB.Bson.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\MongoDB.Driver.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.exe
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.pdb
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.csproj.App.config
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\StackExchange.Redis.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.IO.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.Runtime.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.Threading.Tasks.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\StackExchange.Redis.pdb
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\StackExchange.Redis.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.IO.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.Runtime.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\System.Threading.Tasks.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.Data.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.Data.EntityContext.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.Data.Linq.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\LZ4.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.Data.xml
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Cassandra.Data.Linq.xml
+C:\test\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe.config
+C:\test\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.exe
+C:\test\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.pdb
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Divan.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\Newtonsoft.Json.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\bin\Debug\nunit.framework.dll
+D:\Gregoire\MIAGE\M2 IF\Mémoire\BenchmarkNoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Gregoire\Desktop\Projets\Benchmark-NoSQL\BenchmarkNoSQL\bin\Debug\BenchmarkNoSQL.exe.config
+C:\Users\Gregoire\Desktop\Projets\Benchmark-NoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.exe
+C:\Users\Gregoire\Desktop\Projets\Benchmark-NoSQL\BenchmarkNoSQL\obj\Debug\BenchmarkNoSQL.pdb
